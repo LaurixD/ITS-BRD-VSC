@@ -25,6 +25,7 @@ int main(void) {
 
   // Begruessungstext	
 	lcdPrintlnS("Hallo liebes TI-Labor (c-project)");
+	lcdPrintlnS("This is a test if the main functions of GitHub!")
 	
 	// Test in Endlosschleife
 	while(1) {
